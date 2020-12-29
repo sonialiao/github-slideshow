@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Per Ardua Ad Astra 
 Use the left arrow to go back!
